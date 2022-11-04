@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-New branch file only shows up in the new branch
-
-=======
-new branch file in this new branch-file
->>>>>>> new-branch
+New branch file only shows up in master and new branch
