@@ -1,12 +1,5 @@
-# git-essentials
+# Git Essentials / Git For Everybody
 
-## Deployment notes
+> This is a course to use git everyday!.
 
-## Staging notes
-
-## How to use this repo notes
-
-## Some new stuff in readme
-lorem adj ñla kasj dklaj dklñajkdlñjañkldjkaljdklajdklaj jkj jk jhljlkhasj d ui reqkeqñjd ñasjdklñaj kcojadñasjd 
-ñasljdkñajdkñlaksdño uñlakjsdkñl aj sdklasñ
-
+Course created by Me! :)
